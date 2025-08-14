@@ -11,37 +11,41 @@ En esta sección colocamos información sobre nuestra organizacion.
 <!--more-->
 ## Integrantes
 
-{{< cards count=3 >}}
+{{< cards count=4 >}}
 {{< card >}}
-#### Museóloga Zulema Cañas
 {{< img src="/img/people/zulemacanas.jpeg">}}
-
-####  (Presidente)
+#### Museóloga Zulema Cañas
+- Presidente
 {{< /card >}}
 
 {{< card >}}
-#### Prof. Pedro Hasenauer
 {{< img src="/img/people/pedrohasenauer.jpeg">}}
+#### Prof. Pedro Hasenauer
 {{< /card >}}
 
 {{< card >}}
-#### Prof. Patricia Pastura
 {{< img src="/img/people/patriciapastura.jpeg">}}
+#### Prof. Patricia Pastura
 {{< /card >}}
 
 {{< card >}}
-#### Rose Marie Videla
 {{< img src="/img/people/rosemarievidela.jpeg">}}
+#### Rose Marie Videla
 {{< /card >}}
 
 {{< card >}}
-#### Ruben Vismara
 {{< img src="/img/people/rubenvismara.jpeg">}}
+#### Ruben Vismara
 {{< /card >}}
 
 {{< card >}}
-#### Cristina Sacchero
 {{< img src="/img/people/cristinasacchero.jpeg">}}
+#### Cristina Sacchero
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/people/rubenyannacone.jpeg">}}
+#### Ruben Yannacone
 
 {{< /card >}}
 

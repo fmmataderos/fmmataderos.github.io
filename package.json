@@ -4,13 +4,13 @@
   "description": "",
   "main": "none.js",
   "scripts": {
-    "build": "hugo --theme=dot-org-hugo-theme",
-    "build:production": "hugo --environment=production --themesDir=../.. --baseURL ${npm_config_url}",
-    "start": "hugo serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
+    "build": "npx hugo-extended --theme=dot-org-hugo-theme",
+    "build:production": "npx hugo-extended --environment=production --themesDir=themes --baseURL ${npm_config_url}",
+    "start": "npx hugo-extended serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
     "dev": "npm run dev:start",
-    "dev:start": "hugo serve --logLevel info --configDir=config --themesDir=../.. --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
-    "dev:start:with-pagefind": "hugo --baseURL=/ --themesDir=../.. --theme=dot-org-hugo-theme && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run dev:start",
-    "dev:build": "hugo --themesDir=../.. --theme=dot-org-hugo-theme"
+    "dev:start": "npx hugo-extended serve --logLevel info --configDir=config --themesDir=themes --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
+    "dev:start:with-pagefind": "npx hugo-extended --baseURL=/ --themesDir=themes --theme=dot-org-hugo-theme && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run dev:start",
+    "dev:build": "npx hugo-extended --themesDir=themes --theme=dot-org-hugo-theme"
   },
   "repository": {
     "type": "git",
@@ -19,10 +19,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cncf/dot-org-hugo-theme/issues"
-  },
-  "homepage": "https://github.com/cncf/dot-org-hugo-theme#readme",
+  "homepage": "https://github.com/fmmataderos/fmmataderos.github.io#readme",
   "dependencies": {
     "autoprefixer": "^10.4.21",
     "hugo-extended": "^0.148.1",

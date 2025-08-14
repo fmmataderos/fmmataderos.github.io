@@ -1,88 +1,40 @@
-en:
-  languageName: English
+es:
+  languageName: Español
+  contentDir: content/es
+  copyright: "Copyright &copy; {{< current_year >}} [ferchaure](https://github.com/ferchaure) . All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   weight: 1
-  ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
+  title: "Foro de la Memoria de Mataderos"
   params:
-    description: "Site Description"
+    description: "Descripción del Sitio"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+    #accessibility:
+    #  skip_text: "Skip to content"
+    #  help_text: "Accessibility Statement"
+    #  help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "Inscripción a Cocama2025"
+      link: "https://sites.google.com/view/cocama2025/inicio"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
-    github_edit: "Edit this page on GitHub"
+      text: "Inscripción a Cocama2025"
+      link: "https://sites.google.com/view/cocama2025/inicio"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
-      name: "About"
-      url: "/example-page/"
+      name: "Nosotros"
+      url: "/about"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "cocama"
+      name: "CoCaMa"
+      url: "/cocama/"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 3
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
-      weight: 2
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
+      #parent: "cocama"
     - identifier: "blog"
       name: "Blog"
-      url: "/blog/"
-      weight: 4
-    - identifier: "example"
-      name: "External"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 5
-es:
-  languageName: Español
-  contentDir: content/es
-  weight: 2
-  title: "Título del Sitio"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+      url: "https://forommataderos.blogspot.com/"
       weight: 2
+    - identifier: "contacto"
+      name: "Contacto"
+      url: "/about/contact/"
+      weight: 4    

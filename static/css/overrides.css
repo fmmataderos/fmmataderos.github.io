@@ -1,0 +1,32 @@
+/* Custom overrides */
+
+/* Reduce page title size (the big H1 above content) */
+
+@media (min-width: 1000px) {
+    h1.title {
+        font-size: 50px;
+    }
+}
+
+/* Override uppercase transformation to maintain original case in titles */
+h1.title,
+h1,
+.h1 {
+    text-transform: none !important;
+}
+
+h2,
+.h2 {
+    text-transform: none !important;
+}
+
+/* If you want to keep some headings uppercase but allow others to be lowercase,
+   you can be more specific and only target the main page title */
+h1.title {
+    text-transform: none !important;
+}
+
+/* Specific override for the main page title */
+.title {
+    text-transform: none !important;
+}

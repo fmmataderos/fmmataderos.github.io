@@ -4,7 +4,7 @@
 logo_on_white: "/img/LogoForo.gif"
 logo_on_black: "/img/LogoForo.gif"
 custom_js: []
-custom_css: []
+custom_css: ["/css/overrides.css"]
 
 ######################## custom config ####################
 
@@ -14,7 +14,7 @@ images: ["/img/social-share.png"]
 social_links:
   devstats: ""
   discord: ""
-  facebook: ""
+  facebook: "https://www.facebook.com/foromataderos/wall/"
   flickr: ""
   github: ""
   instagram: "https://www.instagram.com/forodelamemoriamataderos/"
@@ -27,7 +27,7 @@ social_links:
   stackoverflow: ""
   threads: ""
   twitter: ""
-  x: ""
+  x: "https://x.com/forommataderos"
   youtube: ""
 
 # Makes the header sticky on tall screens

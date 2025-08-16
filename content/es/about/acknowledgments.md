@@ -1,6 +1,5 @@
 ---
 title: "Reconocimientos"
-noindex: true
 ---
 
 ### 2005

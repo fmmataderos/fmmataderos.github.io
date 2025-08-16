@@ -1,0 +1,9 @@
+---
+title: PROYECTO DE LEY - Uso público y Expropiación de la Casa Mirador Salaberry
+date: 2012-03-24T16:04:00-03:00
+---
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXP7XcKphbSmRXxrXZWVSQEb2yyAdluLLwKJh3t6Q6uk3wao2ma9DR5LEji0iorrdHwZ0fGhzp35itnJrAu8U8atiYbK_qDSMvMSXh2-NyaUB2qzda_gtFT6x774oe1atL6QoGBqNWEMue/s320/Proyecto+de+Ley+Uso+p%25C3%25BAblico+y+Expropiaci%25C3%25B3n+de+la+Cas+Mirador+Sa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXP7XcKphbSmRXxrXZWVSQEb2yyAdluLLwKJh3t6Q6uk3wao2ma9DR5LEji0iorrdHwZ0fGhzp35itnJrAu8U8atiYbK_qDSMvMSXh2-NyaUB2qzda_gtFT6x774oe1atL6QoGBqNWEMue/s1600/Proyecto+de+Ley+Uso+p%25C3%25BAblico+y+Expropiaci%25C3%25B3n+de+la+Cas+Mirador+Sa.jpg)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdhjt0ETS4coko21Gg154tAAWlHF3LquXWIplCY5lZqeOJRPB7etoiWly3dA9DX8r_CwNi7nl3uPnYCorJd6CTuJPNUy1Q1M8vccQPzv253jSYer_CxHsJuFlge3JmvWumnLOqR6gmwRaf/s320/Proyecto+de+Ley+Uso+p%25C3%25BAblico+y+Expropiaci%25C3%25B3n+Casa+MIrador+Salaberry2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdhjt0ETS4coko21Gg154tAAWlHF3LquXWIplCY5lZqeOJRPB7etoiWly3dA9DX8r_CwNi7nl3uPnYCorJd6CTuJPNUy1Q1M8vccQPzv253jSYer_CxHsJuFlge3JmvWumnLOqR6gmwRaf/s1600/Proyecto+de+Ley+Uso+p%25C3%25BAblico+y+Expropiaci%25C3%25B3n+Casa+MIrador+Salaberry2.jpg)
+
+Al finalizar el acto de Declaratoria de Interés Cultural de los Murales de Mataderos, el 20 de marzo de 2012, el Diputado CRISTIAN RITONDO al ser notificado por la Asociación Civil Foro de la Memoria de Mataderos que la Casa Mirador Salaberry (1856) se encontraba en venta, anunció públicamente el Proyecto de Ley: Uso Público y Expropiación de dicha casa que constituye el inmueble más antiguo de Mataderos y una de las tres casas con mirador que existen en la Ciudad de Buenos Aires.

@@ -32,7 +32,7 @@ es:
       #parent: "cocama"
     - identifier: "blog"
       name: "Blog"
-      url: "https://forommataderos.blogspot.com/"
+      url: "/blog/"
       weight: 2
     - identifier: "contacto"
       name: "Contacto"

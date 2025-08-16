@@ -24,16 +24,16 @@ En esta sección colocamos información sobre nuestra organizacion.
 - Socio
 {{< /card >}}
 
-{{< card >}}
+{{< card >}}   
 {{< img src="/img/people/patriciapastura.jpeg">}}
 #### Prof. Patricia Pastura
-- Socio
+- Socia
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/rosemarievidela.jpeg">}}
 #### Rose Marie Videla
-- Socio
+- Socia
 {{< /card >}}
 
 {{< card >}}
@@ -45,7 +45,7 @@ En esta sección colocamos información sobre nuestra organizacion.
 {{< card >}}
 {{< img src="/img/people/cristinasacchero.jpeg">}}
 #### Cristina Sacchero
-- Socio
+- Socia
 {{< /card >}}
 
 {{< card >}}
@@ -57,6 +57,22 @@ En esta sección colocamos información sobre nuestra organizacion.
 {{< card >}}
 {{< img src="/img/people/myrthaschalom.jpeg">}}
 #### Myrtha Schalom
+- Socia
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/people/sebastianlopez.jpeg">}}
+#### Sebastián López
 - Socio
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/people/guillermostanizzo.jpeg">}}
+#### Guillermo Stanizzo
+- Socio
+{{< /card >}}
+{{< card >}}
+{{< img src="/img/people/miriambrizzio.jpeg">}}
+#### Lic. Miriam Brizzio
+- Socia
 {{< /card >}}
 {{< /cards >}}

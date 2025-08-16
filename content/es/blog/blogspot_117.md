@@ -1,0 +1,16 @@
+---
+title: DECLARATORIA  DE INTERES CULTURAL  -  LEGISLATURA DE LA CIUDAD AUTONOMA DE BUENOS AIRES
+date: 2018-09-15T19:21:00-03:00
+---
+
+LEGISLATURA DE LA CIUDAD AUTÓNOMA
+---------------------------------
+
+DE BUENOS AIRES - 30/08/2018 - DECLARACIÓN
+--------------------------------------------
+
+" DECLÁRASE DE INTERÉS CULTURAL" el "V CONGRESO DE HISTORIA Y DE LA CARNE Y SUS DERIVADOS DE MATADEROS"
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhUrm5IPB9g5D-FSRs9rjJ5GrtvY_WhT0GSmnMa5eZZlZ7zfN5ziMFd3um4kxYAbTBShWAeKzTxQYTyDsTAJlZoSAlLdifCvXqpOB9KS0ySo776xpQHduUgUWuJ2MAkgil8Tti0jf0uZRYfrtMgnawQmkAYDhKa_EuvjqWFLWrDcTj7LQhpmeBjvOyoOA=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEhUrm5IPB9g5D-FSRs9rjJ5GrtvY_WhT0GSmnMa5eZZlZ7zfN5ziMFd3um4kxYAbTBShWAeKzTxQYTyDsTAJlZoSAlLdifCvXqpOB9KS0ySo776xpQHduUgUWuJ2MAkgil8Tti0jf0uZRYfrtMgnawQmkAYDhKa_EuvjqWFLWrDcTj7LQhpmeBjvOyoOA=s720)
+
+IMPULSADO POR EL DIPUTADO EDUARDO SANTAMARINA

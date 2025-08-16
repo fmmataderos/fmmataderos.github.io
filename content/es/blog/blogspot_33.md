@@ -1,0 +1,6 @@
+---
+title: MATADEROS PRESENTE EN LA INAUGURACION DEL MUSEO DE LA UVA Y EL VINO EN URUGUAY
+date: 2011-12-16T14:43:00-03:00
+---
+
+En respuesta a la Invitación del Intendente de Canelones, Dr. Marcos Carámbula y por el Presidente del Instituto Nacional de Vitivinicultura, Enólogo José Luis Lez, estuvimos presentes en la inauguración del Museo de la Uva y el Vino, donde fuimos recibidos muy cordialmente por toda la comunidad, como tambien por la Lic. Ana Maria Villella, responsable del proyecto de este Museo. En este evento coincidimos con el Subsecretario del Ministerio de Ganaderia, Agricultura y Pesca de la Republica Oriental del Uruguay Ing. Agr. Daniel Garín, en aunar esfuerzos para concretar acciones a futuro relacionados con la ganaderia y su desarrollo en el marco del II CONGRESO DE HISTORIA E INDUSTRIA CARNICA Y SUS DERIVADOS EN MATADEROS a realizarse en noviembre de 2012.Incrementando los lazos fraternos entre Argentina y Uruguay, países integrantes del Mercosur.La Presidente de la Asociación Civil Foro de la Memoria de Mataderos, Mlga. Zulema Cañas a los 20:40 m de este video se observa cuando obsequia al Sr. Intendente el Libro "Historia de la Ganaderia Argentina" y expresa una palabras en representación del barrio de Mataderos.

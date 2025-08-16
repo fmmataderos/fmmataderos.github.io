@@ -1,6 +1,6 @@
 ---
 title: Foro de la Memoria de Mataderos
-description: Pagina oficial del Foro de la Memoria de Mataderos.
+description: Pagina oficial del Foro de la Memoria de Mataderos
 showHeader: false
 ---
 
@@ -19,3 +19,5 @@ Somos una Institución dedicada a dar a conocer,conservar y proteger el Patrimon
 
 {{< /column >}}
 {{< /columns >}}
+
+## Secciones Principales 

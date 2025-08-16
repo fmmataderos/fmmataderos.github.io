@@ -1,0 +1,16 @@
+---
+title:  10 de Noviembre  -  Día de la Tradición Argentina
+date: 2018-11-02T21:43:00-03:00
+---
+
+Festejando el Día de la Tradición Argentina se presenta la Muestra "El resero de la pampa a Mataderos" en el antigua sede del Banco de la Nacion Argentina en el Mercado de Liniers - Mataderos. La visitarán escuelas del barrio el martes 13 de noviembre -
+
+Curadora Mlga. Zulema Cañas
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEgsFURgy6XdtyrijziMr1bptENf0Q_Yj7hWLFU7SvALKIpNnMjUXuZl4mvG16ID-Iz7rjrY9v9zr-BqDDczAOkmDV1zVj9K2Gm_Xr3d6oPb8xD397H1lJBtkxVW5iFdzmp8G_n1KUeQGOaPah2zuqVFF77JMWfmFR2VVbs8WlGwCgwyyI39ZPgFi71S6g=w640-h480)](https://blogger.googleusercontent.com/img/a/AVvXsEgsFURgy6XdtyrijziMr1bptENf0Q_Yj7hWLFU7SvALKIpNnMjUXuZl4mvG16ID-Iz7rjrY9v9zr-BqDDczAOkmDV1zVj9K2Gm_Xr3d6oPb8xD397H1lJBtkxVW5iFdzmp8G_n1KUeQGOaPah2zuqVFF77JMWfmFR2VVbs8WlGwCgwyyI39ZPgFi71S6g=s1832)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEi5nMDBl64aZjVH7tQYjFVJPwiFGe586jd_hcbwe66WhhPkTQrzeUvYLWx4h_fE8bQfOpFBKLIIAhuXBAnbVhIqg1_sPkefbwvTuEGLZWj1NB2hrRT_w3MGTJ6LPYI_WgBwQGzEqn6v0uCPc_ZpL7DhC2ypXeBVur1rQS2d3rg4AAzTy77WQRpr8Jj2FA=w640-h384)](https://blogger.googleusercontent.com/img/a/AVvXsEi5nMDBl64aZjVH7tQYjFVJPwiFGe586jd_hcbwe66WhhPkTQrzeUvYLWx4h_fE8bQfOpFBKLIIAhuXBAnbVhIqg1_sPkefbwvTuEGLZWj1NB2hrRT_w3MGTJ6LPYI_WgBwQGzEqn6v0uCPc_ZpL7DhC2ypXeBVur1rQS2d3rg4AAzTy77WQRpr8Jj2FA=s1280)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhH-Zm3VfbgO_m__TxpvBhi5Ypd3BhhONFF96p1dr9OhI3VARb4XuB03mz-mL3mZF7k1eRNJPCsPcroLtHVkFZGEfSB69yuKRyMT0yXOjyMQRHFttJ2bcsfkKfM60RmcBIoKD7Rruvvqa2AstnnjS56q0C6dQMZlGtwsspAKYhQD3v0iVfmVsRNcxRpXQ=w640-h384)](https://blogger.googleusercontent.com/img/a/AVvXsEhH-Zm3VfbgO_m__TxpvBhi5Ypd3BhhONFF96p1dr9OhI3VARb4XuB03mz-mL3mZF7k1eRNJPCsPcroLtHVkFZGEfSB69yuKRyMT0yXOjyMQRHFttJ2bcsfkKfM60RmcBIoKD7Rruvvqa2AstnnjS56q0C6dQMZlGtwsspAKYhQD3v0iVfmVsRNcxRpXQ=s1280)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhlLAbXLrW1bDi18tq1ErgIzkv-hNVBxDd_4Y_Z3wcNzGXYvXLm_yAmc-I1UWCNvBG6O7g-mdJ8mimO9YHPf2Xk50dvhEcpSMBziUi9WnIkagkwtBLPrNUYHhJezZ_KTdmjq2Q6gJQMfoBnrqwJbyhR8QQPxtFM3w2WbbdCnEeh_SlC7eutBbsU849Tww=w640-h384)](https://blogger.googleusercontent.com/img/a/AVvXsEhlLAbXLrW1bDi18tq1ErgIzkv-hNVBxDd_4Y_Z3wcNzGXYvXLm_yAmc-I1UWCNvBG6O7g-mdJ8mimO9YHPf2Xk50dvhEcpSMBziUi9WnIkagkwtBLPrNUYHhJezZ_KTdmjq2Q6gJQMfoBnrqwJbyhR8QQPxtFM3w2WbbdCnEeh_SlC7eutBbsU849Tww=s1280)

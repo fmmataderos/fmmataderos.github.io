@@ -1,0 +1,6 @@
+---
+title: HOMENAJE AL" TORITO DE MATADEROS"
+date: 2008-10-04T19:30:00-03:00
+---
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFl9Tdl-JzYL7ZNb9z1WXSURR8MUPh-1Zv9PnVgK6J2U83DSqsSX9rHMREjBkG1fcGS5aZO48xB7-7Q30Ydgt9fBqQpJtgJBEvGTp5iumTFpyAjUb4mlTK7nx8gDZ9zcwyy3dTpC1nfGG/s400/HOMENAJE+AL+TORITO+DE+MATADEROS.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFl9Tdl-JzYL7ZNb9z1WXSURR8MUPh-1Zv9PnVgK6J2U83DSqsSX9rHMREjBkG1fcGS5aZO48xB7-7Q30Ydgt9fBqQpJtgJBEvGTp5iumTFpyAjUb4mlTK7nx8gDZ9zcwyy3dTpC1nfGG/s1600-h/HOMENAJE+AL+TORITO+DE+MATADEROS.jpg) Fuente: Noticiario Sur

@@ -1,0 +1,26 @@
+---
+title: DIA DE LA TRADICION EN MATADEROS 2012
+date: 2013-06-09T17:17:00-03:00
+---
+
+Paseo Gaucho en el Barrio de Mataderos,TRADICIÓN E IDENTIDAD GAUCHA de la Ciudad Autónoma de Buenos Aires - Argentina
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOKTh6qr8OCnNeFfUDIccbXkQCZfAtvn_m6muW1Ia-6TV4BLA0RgoO3Zo2aB5tPoBVfvzvZWl8mkh_WLiigAzZ779rryC16VGEdMZzk5al2-FxPnCTzT56RettQEaXoEFHktu_-CZ3oL2/s640/36.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOKTh6qr8OCnNeFfUDIccbXkQCZfAtvn_m6muW1Ia-6TV4BLA0RgoO3Zo2aB5tPoBVfvzvZWl8mkh_WLiigAzZ779rryC16VGEdMZzk5al2-FxPnCTzT56RettQEaXoEFHktu_-CZ3oL2/s1600/36.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtl-3bH6WvLIL3PtQTF38SD21_2jVOF3PcPzzA9v_02olORcd3kIprckd82wZ64wQAsdVJlAqjxlT6YB3oXkuzeoW1BMeGB27ZyTwI_qzVpUBeAcC-wzZ9zLBbrShjf5ZZhkhE-kg3zsE/s640/32.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtl-3bH6WvLIL3PtQTF38SD21_2jVOF3PcPzzA9v_02olORcd3kIprckd82wZ64wQAsdVJlAqjxlT6YB3oXkuzeoW1BMeGB27ZyTwI_qzVpUBeAcC-wzZ9zLBbrShjf5ZZhkhE-kg3zsE/s1600/32.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSHwi7soHN_XQP4u9yADiNVptf4IKg2nPzb0QD4HSzB0TED-S3ThD3SY-AZFXgUwAHn3F93L-AMj-amSgUsvBareVai6mXkUicqm_-rT2jqWluCm6aPLH9VT1JUj3UUif6rI_i8t8Hn9Dr/s640/6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSHwi7soHN_XQP4u9yADiNVptf4IKg2nPzb0QD4HSzB0TED-S3ThD3SY-AZFXgUwAHn3F93L-AMj-amSgUsvBareVai6mXkUicqm_-rT2jqWluCm6aPLH9VT1JUj3UUif6rI_i8t8Hn9Dr/s1600/6.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_z1ymlsfyELDDw56q77y5pc3mPflr7x1ePZ9U6HJgqi4LxdnAzw14Z-ujmKjDJumJV_GaeCkAu6gw0Altew0mgNV5oKF44e_i2dFvBAS_NQRpNQEqW8R_5e01sSu3w8xvHP8nGnQnFPUX/s640/37+con+Bandera+de+la+ciudad.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_z1ymlsfyELDDw56q77y5pc3mPflr7x1ePZ9U6HJgqi4LxdnAzw14Z-ujmKjDJumJV_GaeCkAu6gw0Altew0mgNV5oKF44e_i2dFvBAS_NQRpNQEqW8R_5e01sSu3w8xvHP8nGnQnFPUX/s1600/37+con+Bandera+de+la+ciudad.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4V5s_xrkdud52nv_Q2UhjMAh0CNmJvqzLe41-w7qbGSciAKoYzK3wrVTlSRC5xsS5OGODnOwEHG3LBbbuBcJ9qDvnNYOPEXio4-XQLtGNiRGj4qqpHZ52VHudm5hGtwbbT5QFTHuZ8Ch2/s640/19.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4V5s_xrkdud52nv_Q2UhjMAh0CNmJvqzLe41-w7qbGSciAKoYzK3wrVTlSRC5xsS5OGODnOwEHG3LBbbuBcJ9qDvnNYOPEXio4-XQLtGNiRGj4qqpHZ52VHudm5hGtwbbT5QFTHuZ8Ch2/s1600/19.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7pIl6KC1ecf8j3IbHEKp9cVRbjRaOXfdJhNxUxpxRoBXPUIK_EfnXSRKbEox2lc_gUYqfTmZAZMyTTlkf-YVxeH2R2R5avT2_Mtb19Hkz78srPEOVZB4LIGvF4X1wPv3JvFzHP6mbg6vQ/s640/10.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7pIl6KC1ecf8j3IbHEKp9cVRbjRaOXfdJhNxUxpxRoBXPUIK_EfnXSRKbEox2lc_gUYqfTmZAZMyTTlkf-YVxeH2R2R5avT2_Mtb19Hkz78srPEOVZB4LIGvF4X1wPv3JvFzHP6mbg6vQ/s1600/10.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLm9cfnBO9nzKfMDJ4gARSAdW4t8kwCCqgnsi94lr7u6KeshokYhRYH5liB-GIC5anvdLyiWjYM2DMiCSps8111Ij_fmx8SneaPwSOj4AnQk6qL9zr3GZ6toUklFa0yJqvDMptJGH-2SFz/s640/padre+e+hijo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLm9cfnBO9nzKfMDJ4gARSAdW4t8kwCCqgnsi94lr7u6KeshokYhRYH5liB-GIC5anvdLyiWjYM2DMiCSps8111Ij_fmx8SneaPwSOj4AnQk6qL9zr3GZ6toUklFa0yJqvDMptJGH-2SFz/s1600/padre+e+hijo.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggUccaNM6I6FjdLZ9e42TYbr9rVl_jcn_mYeQDtnuL3liPhA2OncbOd3LH2wHKlkVuMTCfhE8xhNKEfo_d1h1QPttEWk1Ng8PUcrxB580CyQ0LHhVDpwDKT8JxvoCAkjwUMHGb7tHI_pdH/s640/1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggUccaNM6I6FjdLZ9e42TYbr9rVl_jcn_mYeQDtnuL3liPhA2OncbOd3LH2wHKlkVuMTCfhE8xhNKEfo_d1h1QPttEWk1Ng8PUcrxB580CyQ0LHhVDpwDKT8JxvoCAkjwUMHGb7tHI_pdH/s1600/1.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaumem84Uo-PXXqLMzoXDGZtGpSYaus3lBq_3SanK5TDXLqjNbw2gZuwLayJ6FyfQC-uSuwF3L6o6jSq9C-w2En_P4rXoYHSR1EuL3yY5RX6zSkeO16GZh34acFzJPDMMDRZXV50pIdw5/s640/31.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaumem84Uo-PXXqLMzoXDGZtGpSYaus3lBq_3SanK5TDXLqjNbw2gZuwLayJ6FyfQC-uSuwF3L6o6jSq9C-w2En_P4rXoYHSR1EuL3yY5RX6zSkeO16GZh34acFzJPDMMDRZXV50pIdw5/s1600/31.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7k3SnKJEAKzj7caSr9wjIC0jAizbJpTOwyS8jZH3bzt7m4K_h3ZzYJJ1HqOpMqM4uyX60o_n35pdNAeOiYm4YmD4C0sWLhzTKC63aqCCn-Vh5imBkkZ9CbzKAoxvsUK3sf1m_I8ijm9Og/s640/35.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7k3SnKJEAKzj7caSr9wjIC0jAizbJpTOwyS8jZH3bzt7m4K_h3ZzYJJ1HqOpMqM4uyX60o_n35pdNAeOiYm4YmD4C0sWLhzTKC63aqCCn-Vh5imBkkZ9CbzKAoxvsUK3sf1m_I8ijm9Og/s1600/35.jpg)

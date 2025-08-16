@@ -1,0 +1,36 @@
+---
+title: CON VISITAS GUIADAS, CHARLAS, PRESENTACIONES, ARTE, TEATRO COMUNITARIO,  GAUCHOS Y DANZAS NATIVAS FESTEJAMOS NUESTRO 129 ANIVERSARIO!!
+date: 2018-06-08T15:46:00-03:00
+---
+
+Con gran presencia de público se realizó la visita guiada en nuestro barrio (Mercado de Liniers SA, Museo Criollo de los Corrales, Polideportivo del Club Atletico Nueva Chicago, Bar Oviedo, Murales de Valor Patrimonial, Taller de Memo Caviglia, el Fileteador de Mataderos y almuerzo en el Restaurnte Los Corrales). Participaron el grupo de danzas folklóre Amigos del Alma Prof. Patricia Pastura y la Asociación Victoriana Augusta Argentina, como parte de los festejos de los 129 años de Mataderos!!
+
+- Siguieron charlas en la semana a cargo de la Museóloga Zulema Cañas sobre la historia patrimonial de Mataderos, visita de los alumnos al Museo Criollo de los Corrales y en el Club Nueva Chicago se realizaron talleres de arte y fotografías para las escuelas locales.
+- La fiesta central se realizó en la Plaza Juan Salaberry en Av. J. B. Alberdi y Pilar.
+- Se presentaron obras plásticas de artistas locales, Danzas Nativas, La presentación del grupo de teatro Comunitario RES o NO RES, Pase Gaucho a cargo de los reseros del Mercado de Liniers. Gracias a todos!!!
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3sHyl_ZNycBMfk7L3G1iaT7JVvn3Wh8v5Hp0D8wKXWSjfIgkt7HNKg3gcVYgbqkBUZ4oEl36yYIMNxXnabAq3Clt-6jmNZ6hHxeM38U6ZWF73nHrVymqaRi1gssBD7zQeljwK4jMTrYgq/s640/IMG-20180409-WA0036.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3sHyl_ZNycBMfk7L3G1iaT7JVvn3Wh8v5Hp0D8wKXWSjfIgkt7HNKg3gcVYgbqkBUZ4oEl36yYIMNxXnabAq3Clt-6jmNZ6hHxeM38U6ZWF73nHrVymqaRi1gssBD7zQeljwK4jMTrYgq/s1600/IMG-20180409-WA0036.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJdMHxwBieh_AFomtZhZIoIlUXSIpnAuXUputbg68aq7VATXXW_C8ESKMZbu8mU_13hulNVhpBI5XVx6UH2xUljCu7e99Z-2MKYVuDLvrUD0iTIuiQ4pWDbchlctzyNfxxEdsIvcf4evv/s640/Desfile+gaucho.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJdMHxwBieh_AFomtZhZIoIlUXSIpnAuXUputbg68aq7VATXXW_C8ESKMZbu8mU_13hulNVhpBI5XVx6UH2xUljCu7e99Z-2MKYVuDLvrUD0iTIuiQ4pWDbchlctzyNfxxEdsIvcf4evv/s1600/Desfile+gaucho.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp6Kz_bVcZ_AvBN2G-5T2JTZnmSjH1AQ1i3YgEbsoFMeoZTftxDVAIAvkygA6XkJbeZ4L-Rr60T77ZW81cPqSdXGX4JJw4wxJBPT0TdvxiGOU9WXPXV-04l1ra7homvtv8NVuGRA-clig/s640/museo+ni%C3%B1os.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp6Kz_bVcZ_AvBN2G-5T2JTZnmSjH1AQ1i3YgEbsoFMeoZTftxDVAIAvkygA6XkJbeZ4L-Rr60T77ZW81cPqSdXGX4JJw4wxJBPT0TdvxiGOU9WXPXV-04l1ra7homvtv8NVuGRA-clig/s1600/museo+ni%C3%B1os.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrpGnBTrSZZTxq21THZa7YyzTDDGQ6YAfHofUXYomPwrQsdjl9DcliVRm8WWigDIwQR7V9BMiOOWVz8cmSe-Ajz8FzWbI6gTJ2jE6xqq4z5jX561YJ2RHc3SOEV_PVtasHbOYrWl4YSOs/s640/visita+guiada+en+chicago.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrpGnBTrSZZTxq21THZa7YyzTDDGQ6YAfHofUXYomPwrQsdjl9DcliVRm8WWigDIwQR7V9BMiOOWVz8cmSe-Ajz8FzWbI6gTJ2jE6xqq4z5jX561YJ2RHc3SOEV_PVtasHbOYrWl4YSOs/s1600/visita+guiada+en+chicago.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTsRkSA5iHQJoPWT3jf45KNeJFwyNlIYHCDO-fCkd1vwzFLxol4SrnrK1GypQfCAN29mIHvoibhVfRANSh7rGuELoE55grwuiDD6rfj93dUBVPUKiz2QI1tlb6I32Ys8dPdaoJngvMIDJG/s640/Memo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTsRkSA5iHQJoPWT3jf45KNeJFwyNlIYHCDO-fCkd1vwzFLxol4SrnrK1GypQfCAN29mIHvoibhVfRANSh7rGuELoE55grwuiDD6rfj93dUBVPUKiz2QI1tlb6I32Ys8dPdaoJngvMIDJG/s1600/Memo.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPu-Pz4Y4Xj7LgyAjXvEUkTAxj-4cSUrMHyBt-H37-UTPlwnAgLAFzGHBtLKzlG6_yE_T3S_sEP48OY04LiAksSF4FjngmY7br05aa-DUNXGys7RXLPAX056JPq5IV9WAobqGMbOfu74B9/s640/res+o+no+res.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPu-Pz4Y4Xj7LgyAjXvEUkTAxj-4cSUrMHyBt-H37-UTPlwnAgLAFzGHBtLKzlG6_yE_T3S_sEP48OY04LiAksSF4FjngmY7br05aa-DUNXGys7RXLPAX056JPq5IV9WAobqGMbOfu74B9/s1600/res+o+no+res.jpeg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FQyy9lneu0zOl2D5lB0b0LqSd4gnF1u_jtcEtZCUrldhnxcGfoxhxzMaUOf4ro08kjp4uLgkErMvUATc0b44otXbzC_8QlqioPxr-Px8rNd7R9mGOz1wtk7R_5Lmh1E_L1Oi7knmCemj/s640/IMG-20180412-WA0020.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FQyy9lneu0zOl2D5lB0b0LqSd4gnF1u_jtcEtZCUrldhnxcGfoxhxzMaUOf4ro08kjp4uLgkErMvUATc0b44otXbzC_8QlqioPxr-Px8rNd7R9mGOz1wtk7R_5Lmh1E_L1Oi7knmCemj/s1600/IMG-20180412-WA0020.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3AMTPYHrWHqaozZ2gw2x9XQz4UuewW75SIUo4txawAf_MC-jmzTqx7if0W5jY_qI7kYWvWX_Can8vSbWrYk2esgigu3VNxzlq2Te1Wcd3jWb2jp_-CqNa-nYCrQuaMEpUXf5VrMy1TUn8/s640/Lorena+y+mirta+falderini.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3AMTPYHrWHqaozZ2gw2x9XQz4UuewW75SIUo4txawAf_MC-jmzTqx7if0W5jY_qI7kYWvWX_Can8vSbWrYk2esgigu3VNxzlq2Te1Wcd3jWb2jp_-CqNa-nYCrQuaMEpUXf5VrMy1TUn8/s1600/Lorena+y+mirta+falderini.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv4lY5Pxr67xhhRgaPt1Q13PDcNdDdfN-ok46BSpbYta5YrQ_uJ0rOpipC-Y1Ocd6phxSAY1hj6pmJl5GwZ5ZBHWrY5ZSQnzSodUR2-o8fnXhooTWcUEP4MFpMy4a3HSo3uN5w4ZY3-zpG/s640/Patri+y+su+grupo+de+baile.jpeg)](https://blogger.googleusercontent.com/img/b/R29XsEjv4lY5Pxr67xhhRgaPt1Q13PDcNdDdfN-ok46BSpbYta5YrQ_uJ0rOpipC-Y1Ocd6phxSAY1hj6pmJl5GwZ5ZBHWrY5ZSQnzSodUR2-o8fnXhooTWcUEP4MFpMy4a3HSo3uN5w4ZY3-zpG/s1600/Patri+y+su+grupo+de+baile.jpeg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-qLDHxq4KRe4uu3YiHwqbpON5EHrCkp4loFlmixZm-iVOipQOQZ9hWdKLmm9WaQUL0KCRkJ-Ozo3GN7yCulbFK1le2ZZ_wqIfumsoTO-E3zQL2qYT5ON4ySGlJpL7nTCJwtCLAj58qZTLx-SS/s640/IMG-20180409-WA0039.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-qLDHxq4KRe4uu3YiHwqbpON5EHrCkp4loFlmixZm-iVOipQOQZ9hWdKLmm9WaQUL0KCRkJ-Ozo3GN7yCulbFK1le2ZZ_wqIfumsoTO-E3zQL2qYT5ON4ySGlJpL7nTCJwtCLAj58qZTLx-SS/s1600/IMG-20180409-WA0039.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7OAkiCzIJ6EGfSEeu-MPvmayeEOw3A46sZPoVq966ENaXGU5cWCxDHFjLQtfy_lVpl3AuV8Lab149a13aFlYTCX2xGDkjua3sr5gzrv9FefdXq3LxcW5_b2iLlVXQnMZu_vx_kZTL/s640/IMG-20180410-WA0016.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2Fl/AVvXsn0b0/s1600/IMG-20180410-WA0016.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOSWYTakgHYW1jjZbnsjWxwOe5TAzSF5T8imLa1MckNyecGGyDPuWFEhEnNiqsI1TC143Dx-u_CaRcT1h0QDiIuqiSAq_lCKA_FZcGoi6PBBaCysQbJ9TbNvD611B9u0L4XW2mVYHgawoZ/s640/IMG-20180409-WA0059.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2FlAVXsEhOSWYTakgHYW1jjZbnsjWxwOe5TAzSF5T8imLa1MckNyecGGyDPuWFEhEnNiqsI1TC143Dx-u_CaRcT1h0QDiIuqiSAq_lCKA_FZcGoi6PBBaCysQbJ9TbNvD611B9u0L4XW2mVYHgawoZ/s1600/IMG-20180409-WA0059.jpg)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3v8hBzFeJo98r54qM1GzXYcuZWfEk_pm8fRUufIzRz7KhJmApjPbAaKWXtnZuQewPNaV13oDzr4hx_2G-PNhe5AA1GYltHQWHXSuMJz6uPX3Xgg1Dqq9KUA7dZqidFWKnDuVKdKa7DM_k/s640/IMG-20180410-WA0028.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2Fl/AVvXsEA13oDzr4hx_2G-PNhe5AA1GYltHQWHXSuMJz6uPX3Xgg1Dqq9KUA7dZqidFWKnDuVKdKa7DM_k/s1600/IMG-20180410-WA0028.jpg)

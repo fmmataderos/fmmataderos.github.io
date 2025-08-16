@@ -1,0 +1,6 @@
+---
+title: Don Lisandro de la Torre
+date: 2008-02-04T04:48:00-02:00
+---
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiiTQZGyD3JX7MjubKTH-99gj72s_TfRl3d6rdKKFWkliIelCwPuuOhuTNfcwLa1CZP6xSiE2vHdeteSr58eaLGd-ikedwxN6yhrRqkrHOI1S4KJ5R3o_qtNBZ3Z2MVtoUgVyBDC8dU0VQ/s320/lis0002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiiTQZGyD3JX7MjubKTH-99gj72s_TfRl3d6rdKKFWkliIelCwPuuOhuTNfcwLa1CZP6xSiE2vHdeteSr58eaLGd-ikedwxN6yhrRqkrHOI1S4KJ5R3o_qtNBZ3Z2MVtoUgVyBDC8dU0VQ/s1600-h/lis0002.jpg) Muestra itinerante LOS VALORES DE DON LISANDRO, en el Senado de la Nación y luego cuando emplazamos la placa que nos obsequiara el Senado de la Nación, en la plaza seca frente a la comisaria 42a. [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwEvdlemeVcS28kc-lu7nFWZo4XG0itLSG8WeRkv-3auCrSUg4Ynx9CaViTeQEgBPwFfqI-weVUhDitvdOrLp3mGE-tDIA9vsyQ_wG5Ul2SEusMGMUxL6fbHi7NvjX_7ODMFCLJNl5IP9/s320/dla+torre+11.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwEvdlemeVcS28kc-lu7nFWZo4XG0itLSG8WeRkv-3auCrSUg4Ynx9CaViTeQEgBPwFfqI-weVUhDitvdOrLp3mGE-tDIA9vsyQ_wG5Ul2SEusMGMUxL6fbHi7NvjX_7ODMFCLJNl5IP9/s1600-h/dla+torre+11.jpg)

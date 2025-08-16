@@ -1,0 +1,14 @@
+---
+title: Primera Jornada del V Congreso de Historia y de la carne y sus derivados de Mataderos
+date: 2018-10-19T20:04:00-03:00
+---
+
+Primera Jornada del V Congreso de Historia y de la carne y sus derivados de Mataderos con las delegaciones de Maipu, Rivadavia y Benito Juarez de la Provincia de Buenos Aires, de Esperanza Pcia. de Santa Fe y de La Universidad Federal de Pelotas RS y Parque Gaucho - Gramado RS de Brasil!
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhhajXnF6FdRXzAofZDWE2R-U7H0Y133LdxNCH_oae11mlvI71_eiRO5aXxXLDrR2zem4-_vlYTKhQwpAYi59mMdgDBN37eXB4gCTfOsNy_szFVF3Wl1j10DToSj_4WBza7ZtKEEwXy3_UGIjeKxPIue9qXiURbTkhDwzN9C_wg2lsJMLhoC6lqeax01w=w400-h195)](https://blogger.googleusercontent.com/img/a/AVvXsEhhajXnF6FdRXzAofZDWE2R-U7H0Y133LdxNCH_oae11mlvI71_eiRO5aXxXLDrR2zem4-_vlYTKhQwpAYi59mMdgDBN37eXB4gCTfOsNy_szFVF3Wl1j10DToSj_4WBza7ZtKEEwXy3_UGIjeKxPIue9qXiURbTkhDwzN9C_wg2lsJMLhoC6lqeax01w=s1280)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhC4KdS3ovhZanI1DDJeIY_N6FWaVjYCV_di8qfu0r_FaQB5kBFqCkXN9F7k5f8fHFY7nBQa08AVAnaYz_CUlaESJATmnM2ZeBAKhYkyY5hKwXy7HogEZluF6Ddlaj_xnxLjmzwTfCZFuOnC01hPgrIWwN4Mp-SdYV_FMiNxbBRMLIF8JCWjtxZO3lbmQ=w400-h195)](https://blogger.googleusercontent.com/img/a/AVvXsEhC4KdS3ovhZanI1DDJeIY_N6FWaVjYCV_di8qfu0r_FaQB5kBFqCkXN9F7k5f8fHFY7nBQa08AVAnaYz_CUlaESJATmnM2ZeBAKhYkyY5hKwXy7HogEZluF6Ddlaj_xnxLjmzwTfCZFuOnC01hPgrIWwN4Mp-SdYV_FMiNxbBRMLIF8JCWjtxZO3lbmQ=s1280)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEhzBok_-62vIhvvbuNZIs5t6Odm4cFpshJnvguRPm-bxEMgEQ_2aLVZqZlJwHvPcS878YKIciHAk-KS5iC4CNWo7NT-9QAJFznXyPo5BhNA8Axi5avzMdpm0EDvUv0uM07lyUEpVQao_FaJvAALN9VJzJMYYnBojjPbaPflSbXyVGB75dSbTHB9a9b7YQ=w400-h225)](https://blogger.googleusercontent.com/img/a/AVvXsEhzBok_-62vIhvvbuNZIs5t6Odm4cFpshJnvguRPm-bxEMgEQ_2aLVZqZlJwHvPcS878YKIciHAk-KS5iC4CNWo7NT-9QAJFznXyPo5BhNA8Axi5avzMdpm0EDvUv0uM07lyUEpVQao_FaJvAALN9VJzJMYYnBojjPbaPflSbXyVGB75dSbTHB9a9b7YQ=s1040)
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEgYfI4K8CSsCrd-zmrykKp-7bUP6pxjonUQDyYzoWSTs9XY3NzuQ1Rf9Drbjg_E-KQHYkrhW70D7ixzcf8R33fZdBwD4qSmpp53w8k42d_HfQp-winna-N2VdbTHIQCaWDDTdQhUUYsJzA-oJrYMMYnYlCw6QnNJ9v2l104u_ySDkPszAWPS8EJ3K-ecA=w400-h300)](https://blogger.googleusercontent.com/img/a/AVvXsEgYfI4K8CSsCrd-zmrykKp-7bUP6pxjonUQDyYzoWSTs9XY3NzuQ1Rf9Drbjg_E-KQHYkrhW70D7ixzcf8R33fZdBwD4qSmpp53w8k42d_HfQp-winna-N2VdbTHIQCaWDDTdQhUUYsJzA-oJrYMMYnYlCw6QnNJ9v2l104u_ySDkPszAWPS8EJ3K-ecA=s1032)

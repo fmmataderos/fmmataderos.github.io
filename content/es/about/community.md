@@ -1,6 +1,5 @@
 ---
 title: "Relación con la Comunidad"
-noindex: true
 ---
 
 El Foro participa de:

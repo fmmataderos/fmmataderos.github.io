@@ -15,64 +15,64 @@ En esta sección colocamos información sobre nuestra organizacion.
 {{< card >}}
 {{< img src="/img/people/zulemacanas.jpeg">}}
 #### Museóloga Zulema Cañas
-- Presidente
+- Fundadora y Presidente del Foro de la Memoria de Mataderos
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/pedrohasenauer.jpeg">}}
 #### Prof. Pedro Hasenauer
-- Socio
+- Administrativo
 {{< /card >}}
 
 {{< card >}}   
 {{< img src="/img/people/patriciapastura.jpeg">}}
 #### Prof. Patricia Pastura
-- Socia
+- Profesora de Danzas Nativas
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/rosemarievidela.jpeg">}}
 #### Rose Marie Videla
-- Socia
+- Coordinadora educativa
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/rubenvismara.jpeg">}}
 #### Ruben Vismara
-- Socio
+- Artista Plástico
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/cristinasacchero.jpeg">}}
 #### Cristina Sacchero
-- Socia
+- Colaboradora
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/rubenyannacone.jpeg">}}
 #### Ruben Yannacone
-- Socio
+- Artista Plástico
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/myrthaschalom.jpeg">}}
 #### Myrtha Schalom
-- Socia
+- Escritora
 {{< /card >}}
 
 {{< card >}}
 {{< img src="/img/people/sebastianlopez.jpeg">}}
 #### Sebastián López
-- Socio
+- Historiador deportivo
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/people/guillermostanizzo.jpeg">}}
 #### Guillermo Stanizzo
-- Socio
+- Turismo barrial
 {{< /card >}}
 {{< card >}}
 {{< img src="/img/people/miriambrizzio.jpeg">}}
 #### Lic. Miriam Brizzio
-- Socia
+- Directora de danzas Nativas
 {{< /card >}}
 {{< /cards >}}

@@ -75,4 +75,11 @@ En esta sección colocamos información sobre nuestra organizacion.
 #### Lic. Miriam Brizzio
 - Directora de danzas Nativas
 {{< /card >}}
+
+{{< card >}}
+{{< img src="/img/people/albertoiriart.jpeg">}}
+#### Alberto Iriart
+- Cantor surero
+- Tradicionalista
+{{< /card >}}
 {{< /cards >}}

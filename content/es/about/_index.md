@@ -24,6 +24,12 @@ En esta sección colocamos información sobre nuestra organizacion.
 - Administrativo
 {{< /card >}}
 
+{{< card >}}
+{{< img src="/img/people/suanacouto.jpeg">}}
+#### Susana Couto
+- Med. Farmaceutica y Socia fundadora
+{{< /card >}}
+
 {{< card >}}   
 {{< img src="/img/people/patriciapastura.jpeg">}}
 #### Prof. Patricia Pastura

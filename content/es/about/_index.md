@@ -21,7 +21,7 @@ En esta sección colocamos información sobre nuestra organizacion.
 {{< card >}}
 {{< img src="/img/people/pedrohasenauer.jpeg">}}
 #### Prof. Pedro Hasenauer
-- Administrativo
+- Colaborador
 {{< /card >}}
 
 {{< card >}}
@@ -57,7 +57,7 @@ En esta sección colocamos información sobre nuestra organizacion.
 {{< card >}}
 {{< img src="/img/people/rubenyannacone.jpeg">}}
 #### Ruben Yannacone
-- Artista Plástico
+- Colaborador
 {{< /card >}}
 
 {{< card >}}
